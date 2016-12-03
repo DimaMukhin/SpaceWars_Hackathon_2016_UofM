@@ -2,6 +2,6 @@
 Hackathon University of Manitoba 2016 
 group members:
 Ben Mukhin
-Enosh Anwar
+Enosh Anwar (EA)
 Dima Mukhin
 
